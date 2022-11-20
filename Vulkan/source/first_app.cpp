@@ -16,7 +16,6 @@
 #include <cassert>
 #include <stdexcept>
 #include <chrono>
-#include <iostream>
 
 namespace lve 
 {

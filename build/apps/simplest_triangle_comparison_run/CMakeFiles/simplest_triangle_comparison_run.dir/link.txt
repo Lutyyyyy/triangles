@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/simplest_triangle_comparison_run.dir/simplest_triangle_comparison_run.cpp.o -o simplest_triangle_comparison_run  ../../source/BSP_tree/libBSP_tree.a ../../source/Triangle_intersection_algorithm/libTriangle_intersection_algorithm.a ../../source/BSP_tree/libBSP_tree.a ../../source/Triangle_intersection_algorithm/libTriangle_intersection_algorithm.a 

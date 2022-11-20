@@ -1,2 +1,0 @@
-/usr/bin/ar qc libTriangle_intersection_algorithm.a CMakeFiles/Triangle_intersection_algorithm.dir/Triangle_intersection_algorithm.cpp.o
-/usr/bin/ranlib libTriangle_intersection_algorithm.a

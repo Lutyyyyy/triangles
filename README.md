@@ -30,3 +30,10 @@ called `gen-test`
 After that a test file called test.dat is generated directly in build directory. You can run any of the apps using it.
 
 ### Visualizing triangles
+Visualizing app is located in `build/apps/visualization_run`. Move into this folder and run it using `./visualization_run` command.
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
+

@@ -33,13 +33,13 @@ After that a test file called test.dat is generated directly in build directory.
 Visualizing app is located in `build/apps/visualization_run`. Move into this folder and run it using `./visualization_run` command.
 
 Camera control:
-- Move UP - W
-- Move DOWN - S 
-- Move LEFT - A
-- Move RIGHT - D
-- Move FORWARD - LEFT_SHIFT
-- Move BACK -  LEFT_CTRL
-- Look UP - UP_ARROW
-- Look DOWN - DOWN_ARROW 
-- Look LEFT - LEFT_ARROW
-- Look RIGHT - RIGHT_ARROW
+- Move UP       - W
+- Move DOWN     - S 
+- Move LEFT     - A
+- Move RIGHT    - D
+- Move FORWARD  - LEFT_SHIFT
+- Move BACK     - LEFT_CTRL
+- Look UP       - UP_ARROW
+- Look DOWN     - DOWN_ARROW 
+- Look LEFT     - LEFT_ARROW
+- Look RIGHT    - RIGHT_ARROW

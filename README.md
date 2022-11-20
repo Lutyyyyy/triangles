@@ -5,10 +5,11 @@
 Prerequisites:
 1) gtest should be installed on your system
 2) cmake should be installed on your system
+
 For visualizing triangles:
-3) Vulkan SDK should be installed on your system
-4) GLM should be installed on your system
-5) GLFW should be installed on your system
+1) Vulkan SDK should be installed on your system
+2) GLM should be installed on your system
+3) GLFW should be installed on your system
 (quick tutorial to set up environment for using Vulkan applications and install required libraries: https://vulkan-tutorial.com/Development_environment)
 
 1. Create an empty folder where you want to build your project (f.e. it is called build)

@@ -10,8 +10,10 @@ For visualizing triangles:
 1) Vulkan SDK should be installed on your system
 2) GLM should be installed on your system
 3) GLFW should be installed on your system
+
 (quick tutorial to set up environment for using Vulkan applications and install required libraries: https://vulkan-tutorial.com/Development_environment)
 
+Running:
 1. Create an empty folder where you want to build your project (f.e. it is called build)
 2. `cd build`
 3. run `cmake . `

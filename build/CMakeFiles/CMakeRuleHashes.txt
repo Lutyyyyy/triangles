@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+dd97d1162069593e1c350f8b7578a66b ../Vulkan/shaders/simple_shader.frag.spv
+5ef8807584d7f6dfa6d7b5be9580f898 ../Vulkan/shaders/simple_shader.vert.spv
+aa3a9cb970a13aca1d8ddf2e63ada6c9 CMakeFiles/Shaders

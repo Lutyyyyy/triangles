@@ -1,10 +1,15 @@
-# triangles - a program that lists triangles that intersect with other triangles at least once
+# triangles - a program that lists triangles that intersect with other triangles at least once and creates 3D scene (using Vulkan API) representing intersecting triangles with red color
 
-### Installing and running
+### Installing and running 
 
 Prerequisites:
 1) gtest should be installed on your system
 2) cmake should be installed on your system
+For visualizing triangles:
+3) Vulkan SDK should be installed on your system
+4) GLM should be installed on your system
+5) GLFW should be installed on your system
+(quick tutorial to set up environment for using Vulkan applications and install required libraries: https://vulkan-tutorial.com/Development_environment)
 
 1. Create an empty folder where you want to build your project (f.e. it is called build)
 2. `cd build`
@@ -21,3 +26,4 @@ called `gen-test`
 
 After that a test file called test.dat is generated directly in build directory. You can run any of the apps using it.
 
+### Visualizing triangles

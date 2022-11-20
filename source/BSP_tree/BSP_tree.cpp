@@ -1,6 +1,7 @@
 #include "BSP_tree/BSP_tree.hpp"
 #include <cassert>
 #include <unistd.h>
+#include <algorithm>
 
 namespace geometry
 {
@@ -10,6 +11,12 @@ std::vector<int> BSP_tree::run_algo ()
     root.run_algo (candidates, already_intersected);
 
     std::vector<int> result = {already_intersected.begin(), already_intersected.end()};
+    std::sort(result.begin(), result.end());
+
+    size_t sz = result.size();
+    for (size_t i = 0; i < sz; i++) {
+        std::cout << result[i] << std::endl;
+    }
 
     return result;
 }

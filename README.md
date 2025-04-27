@@ -1,4 +1,6 @@
-# triangles - a program that lists triangles that intersect with other triangles at least once and creates 3D scene (using Vulkan API) representing intersecting triangles with red color
+# triangles 
+
+## Here is a program that tracks intersecting triangles in 3D plane and creates the corresponding 3D scene (using Vulkan API)
 
 ### Installing and running 
 
